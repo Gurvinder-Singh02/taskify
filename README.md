@@ -10,7 +10,6 @@ The goal of Taskyfy was to create a straightforward and user-friendly todo appli
 
 ![Taskyfy Screenshot](./taskify.png)
 
-*(Add your actual screenshot path)*
 
 ## How to Use
 
